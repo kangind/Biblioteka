@@ -1,0 +1,13 @@
+C:\Users\Quizzy\source\repos\BibliotekaMetodov\bin\Debug\netcoreapp3.1\BibliotekaMetodov.exe
+C:\Users\Quizzy\source\repos\BibliotekaMetodov\bin\Debug\netcoreapp3.1\BibliotekaMetodov.deps.json
+C:\Users\Quizzy\source\repos\BibliotekaMetodov\bin\Debug\netcoreapp3.1\BibliotekaMetodov.runtimeconfig.json
+C:\Users\Quizzy\source\repos\BibliotekaMetodov\bin\Debug\netcoreapp3.1\BibliotekaMetodov.runtimeconfig.dev.json
+C:\Users\Quizzy\source\repos\BibliotekaMetodov\bin\Debug\netcoreapp3.1\BibliotekaMetodov.dll
+C:\Users\Quizzy\source\repos\BibliotekaMetodov\bin\Debug\netcoreapp3.1\BibliotekaMetodov.pdb
+C:\Users\Quizzy\source\repos\BibliotekaMetodov\obj\Debug\netcoreapp3.1\BibliotekaMetodov.csprojAssemblyReference.cache
+C:\Users\Quizzy\source\repos\BibliotekaMetodov\obj\Debug\netcoreapp3.1\BibliotekaMetodov.AssemblyInfoInputs.cache
+C:\Users\Quizzy\source\repos\BibliotekaMetodov\obj\Debug\netcoreapp3.1\BibliotekaMetodov.AssemblyInfo.cs
+C:\Users\Quizzy\source\repos\BibliotekaMetodov\obj\Debug\netcoreapp3.1\BibliotekaMetodov.csproj.CoreCompileInputs.cache
+C:\Users\Quizzy\source\repos\BibliotekaMetodov\obj\Debug\netcoreapp3.1\BibliotekaMetodov.dll
+C:\Users\Quizzy\source\repos\BibliotekaMetodov\obj\Debug\netcoreapp3.1\BibliotekaMetodov.pdb
+C:\Users\Quizzy\source\repos\BibliotekaMetodov\obj\Debug\netcoreapp3.1\BibliotekaMetodov.genruntimeconfig.cache

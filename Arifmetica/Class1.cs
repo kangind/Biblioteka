@@ -1,30 +1,31 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Arifmetica
 {
-    public class Class1
+    public class Methods
     {
-        int a = 2;
-        int b = 1;
-
-        public void Plus(int a, int b)
+        public int Plus(int a, int b)
         {
-            int c = a + b;
+            return a + b;
         }
 
-        public void Minus(int a, int b)
+        public int Minus(int a, int b)
         {
-            int d = a - b;
+            return a - b;
         }
 
-        public void Delenie(int a, int b)
+        public decimal Delenie(int a, int b)
         {
-            int e = a / b;
+            return a / b;
         }
 
-        public void Umnosh(int a, int b)
+        public int Umnosh(int a, int b)
         {
-            int f = a * b;
+            return a * b;
         }
     }
 }
